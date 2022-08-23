@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: img_0309-2.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -27,9 +27,9 @@ organizations:
     url: https://www.sdu.edu.cn
 education:
   courses:
-    - institution: Shandong University
+    - institution: Shandong University, 2018-2022
       year: ""
-      course: B.Egn in Communication Engineering
+      course: B.E in Communication Engineering
 superuser: true
 highlight_name: true
 title: Zongfang Liu
