@@ -16,7 +16,7 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Alves-xf
   - icon: csdn
     icon_pack: fab
     link: https://blog.csdn.net/qq_43426078?spm=1011.2415.3001.5343
