@@ -68,6 +68,6 @@ email: 'zongfangliu00@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Zongfang Liu is an Computer Vison Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei. He is passionate about developing and using algorithms to solve real problems.
+Zongfang Liu is currently an Computer Vison Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei. Before that, Zongfang received his B.Eng degree with first class honors from Shandong University (SDU) in 2022. He is passionate about developing and using algorithms to solve real problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
