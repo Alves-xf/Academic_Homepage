@@ -10,10 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-
-#  - icon: graduation-cap
-#    icon_pack: fas
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Alves-xf
@@ -29,6 +25,7 @@ organizations:
     url: https://www.sdu.edu.cn
   - name: Huawei Nanjing R&D Center
     url: https://en.wikipedia.org/wiki/Huawei
+    
 education:
   courses:
     - institution: Shandong University, 2018-2022
