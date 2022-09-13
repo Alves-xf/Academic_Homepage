@@ -10,21 +10,25 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+#  - icon: graduation-cap
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: csdn
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://blog.csdn.net/qq_43426078?spm=1011.2415.3001.5343
+  - icon: zhihu
+    icon_pack:fab
+    link: https://www.zhihu.com/people/xiao-ya-yao-xiao-a-hao
+
 organizations:
   - name: Shandong University
     url: https://www.sdu.edu.cn
+  - name: Huawei Nanjing R&D Center
+    url: https://en.wikipedia.org/wiki/Huawei
 education:
   courses:
     - institution: Shandong University, 2018-2022
