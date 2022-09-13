@@ -18,19 +18,19 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine Learning & Deep Learning
+  - ML & DL
   - Image Restoration
   - Biomedical Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - institution: Shandong University 
-      course: B.Eng in Communication Engineering (3.5/4.0) 
-      year: (2018.9-2022.6)
-    - institution: SIAT, Chinese Academy of Science 
-      course: Visiting Student 
-      year: (2021.9-2022.6)
+    - institution: B.Eng in Communication Engineering (3.5/4.0)
+      course: Shandong University (2018.9-2022.6)
+      #year: (2018.9-2022.6)
+    - institution: Visiting Student 
+      course: SIAT, Chinese Academy of Science (2021.9-2022.6)
+      #year: (2021.9-2022.6)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
