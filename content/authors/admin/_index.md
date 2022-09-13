@@ -68,9 +68,6 @@ email: 'zongfangliu00@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Zongfang Liu is an Vison Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei.
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zongfang Liu is an Computer Vison Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei. He is passionate about developing and using algorithms to solve real problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
