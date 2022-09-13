@@ -10,7 +10,7 @@ role: Vision Algorithm Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Huawei Nanjing Research & Development Center
+  - name: Huawei Nanjing R&D Center
     url: https://en.wikipedia.org/wiki/Huawei#R&D_centers
 
 # Short bio (displayed in user profile at end of posts)
