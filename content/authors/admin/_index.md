@@ -21,8 +21,8 @@ social:
     link: https://www.zhihu.com/people/xiao-ya-yao-xiao-a-hao
 
 organizations:
-  - name: Shandong University
-    url: https://www.sdu.edu.cn
+#  - name: Shandong University
+#    url: https://www.sdu.edu.cn
   - name: Huawei Nanjing R&D Center
     url: https://en.wikipedia.org/wiki/Huawei
     
@@ -37,6 +37,7 @@ title: Zongfang Liu
 email: ""
 ---
 
+Zongfang Liu is an Vison Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei.
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
