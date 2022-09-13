@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-     - institution: Shandong University (2018.9-2022.6)
+     - institution: Shandong University. 2018.9-2022.6
        course: B.Eng in Communication Engineering (3.5/4.0)
-     - institution: SIAT, Chinese Academy of Science (2021.9-2022.6)
+     - institution: SIAT, Chinese Academy of Science. 2021.9-2022.6
        course: Visiting Student Program
 #      #year: (2018.9-2022.6)
 #    - institution: [SDU](https://en.wikipedia.org/wiki/Shandong_University) (2018.9-2022.6)
