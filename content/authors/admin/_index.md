@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: ""
+avatar_filename: "zongfang_photo.jpg"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
