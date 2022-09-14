@@ -25,7 +25,7 @@ experience:
   - title: Algorithm Engineer
     company: Huawei ｜ Hybrid Video Product Department
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Nanjing, China
     date_start: '2022-07-11'
     date_end: ''
@@ -35,13 +35,13 @@ experience:
         * Improve product competativeness using Computer Vision Algorithms
         * Develop new features using C/C++
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Visiting Student
+    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Shenzhen, China
+    date_start: '2021-09-01'
+    date_end: '2022-6-8'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
