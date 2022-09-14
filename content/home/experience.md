@@ -36,12 +36,12 @@ experience:
         * Develop new features using C/C++
        
   - title: Visiting Student
-    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
+    company: SIAT, CAS | Interdisciplinary Center for Brain Information
     company_url: ''
     company_logo: siat
-    location: Nanjing, China
-    date_start: '2022-07-11'
-    date_end: ''
+    location: Shenzhen, China
+    date_start: '2021-09-01'
+    date_end: '2022-6-8'
     description: |2-
         Responsibilities: 
 
