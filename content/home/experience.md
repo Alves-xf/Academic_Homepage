@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities: 
 
-        * Improve product competativeness using Computer Vision Algorithms
+        * Improve product competitiveness using Computer Vision Algorithms
         * Develop new features using C/C++
        
   - title: Visiting Student
