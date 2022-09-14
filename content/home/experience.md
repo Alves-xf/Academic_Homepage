@@ -35,32 +35,14 @@ experience:
         * Improve product competativeness using Computer Vision Algorithms
         * Develop new features using C/C++
 
-        
-  - title: Visiting Student
-    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Shenzhen, China
-    date_start: '2021-09-01'
-    date_end: '2022-6-8'
-    description: |2-
-        # Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
-        Research orientation:
-        
-        * Non-isotropic image super-resolution
-        * Stripe artifacts removal
-    
-  - title: Software Engineer (Intern)
-    company: Huawei | Data Communication Product Line
-    company_url: ''
-    company_logo: org-x
-    location: Suzhou, China
-    date_start: '2021-07-06'
-    date_end: '2022-08-30'
-    description: |2-
-        Responsibilities:
-        
-        * Software development using Java
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
