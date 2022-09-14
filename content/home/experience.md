@@ -49,7 +49,17 @@ experience:
         
         * Non-isotropic image super-resolution
         * Stripe artifacts removal
+  - title: Software Engineer (Intern)
+    company: Huawei | Data Communication Product Line
+    company_url: ''
+    company_logo: Huawei_Standard_logo
+    location: Suzhou, China
+    date_start: '2021-07-06'
+    date_end: '2022-08-30'
+    description: |2-
+        Responsibilities:
         
+        * Software development using Java
 design:
   columns: '2'
 ---
