@@ -35,8 +35,8 @@ experience:
         * Improve product competativeness using Computer Vision Algorithms
         * Develop new features using C/C++
        
-  - title: Algorithm Engineer
-    company: Huawei ｜ Hybrid Video Product Department
+  - title: Visiting Student
+    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
     company_url: ''
     company_logo: siat
     location: Nanjing, China
