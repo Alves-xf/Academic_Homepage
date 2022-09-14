@@ -25,7 +25,6 @@ experience:
   - title: Algorithm Engineer
     company: Huawei ｜ Hybrid Video Product Department
     company_url: ''
-    company_logo: org-hw
     location: Nanjing, China
     date_start: '2022-07-11'
     date_end: 'Present'
