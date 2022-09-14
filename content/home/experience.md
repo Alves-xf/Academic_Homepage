@@ -41,7 +41,7 @@ experience:
     company_logo: siat
     location: Shenzhen, China
     date_start: '2021-09-01'
-    date_end: '2022-6-8'
+    date_end: '2022-08-30'
     description: |2-
         Responsibilities: 
 
