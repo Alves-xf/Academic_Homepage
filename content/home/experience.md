@@ -39,7 +39,7 @@ experience:
     company: SIAT, CAS | Interdisciplinary Center for Brain Information
     company_url: ''
     company_logo: siat
-    location: Shenzhen, China Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
+    location: Shenzhen, China
     date_start: '2021-09-01'
     date_end: '2022-08-30'
     description: |2-
