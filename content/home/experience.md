@@ -44,7 +44,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-6-8'
     description: |2-
-        Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
+        # Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
         Research orientation:
         
         * Non-isotropic image super-resolution
