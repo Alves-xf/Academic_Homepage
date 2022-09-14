@@ -30,10 +30,10 @@ experience:
     date_start: '2022-07-11'
     date_end: ''
     description: |2-
-    Responsibilities: 
+      Responsibilities: 
 
-    * Improve product competativeness using Computer Vision Algorithms
-    * Develop new features using C/C++
+      * Improve product competativeness using Computer Vision Algorithms
+      * Develop new features using C/C++
         
 design:
   columns: '2'
