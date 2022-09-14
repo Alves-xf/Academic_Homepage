@@ -22,28 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Algorithm Engineer
+    company: Huawei ｜ Hybrid Video Product Department
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Nanjing, China
+    date_start: '2022-07-11'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        Responsibilities: 
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Improve product competativeness using Computer Vision Algorithms
+        * Develop new features using C/C++
+
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Visiting Student
+    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenzhen, China
+    date_start: '2021-09-01'
+    date_end: '2022-6-8'
+    description: |2-
+        Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
+        Research orientation:
+        
+        * Non-isotropic image super-resolution
+        * Stripe artifacts removal
+    
+  - title: Software Engineer (Intern)
+    company: Huawei | Data Communication Product Line
+    company_url: ''
+    company_logo: org-x
+    location: Suzhou, China
+    date_start: '2021-07-06'
+    date_end: '2022-08-30'
+    description: |2-
+        Responsibilities:
+        
+        * Software development using Java
 
 design:
   columns: '2'
