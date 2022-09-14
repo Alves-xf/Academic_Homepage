@@ -43,7 +43,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-08-30'
     description: |2-
-        Responsibilities: 
+        Advisor: [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) & [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/)
 
         * Improve product competativeness using Computer Vision Algorithms
         * Develop new features using C/C++
