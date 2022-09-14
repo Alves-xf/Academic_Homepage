@@ -25,16 +25,15 @@ experience:
   - title: Algorithm Engineer
     company: Huawei ｜ Hybrid Video Product Department
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: Huawei
+    location: Nanjing, China
+    date_start: '2022-07-11'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        Responsibilities: 
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Improve product competativeness using Computer Vision Algorithms
+        * Develop new features using C/C++
 
   - title: Professor of Semiconductor Physics
     company: University X
