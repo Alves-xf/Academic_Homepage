@@ -34,19 +34,6 @@ experience:
         
         * Improve product competativeness using Computer Vision Algorithms
         * Develop new features using C/C++
-
-  - title: Visiting Student
-    company: SIAT, Chinese Academy of Science | Interdisciplinary Center for Brain Information
-    company_url: ''
-    company_logo: org-x
-    location: Shenzhen, China
-    date_start: '2021-09-01'
-    date_end: '2022-6-8'
-    description: |2-
-        Responsibilities: 
-        
-        * Improve product competativeness using Computer Vision Algorithms
-        * Develop new features using C/C++
         
 design:
   columns: '2'
