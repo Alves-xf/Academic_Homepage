@@ -25,7 +25,19 @@ experience:
   - title: Algorithm Engineer
     company: Huawei ｜ Hybrid Video Product Department
     company_url: ''
-    # company_logo: Huawei_Standard_logo
+    company_logo: Huawei_Standard_logo
+    location: Nanjing, China
+    date_start: '2022-07-11'
+    date_end: ''
+    description: |2-
+        Responsibilities: 
+
+        * Improve product competativeness using Computer Vision Algorithms
+        * Develop new features using C/C++
+       
+  - title: Algorithm Engineer
+    company: Huawei ｜ Hybrid Video Product Department
+    company_url: ''
     company_logo: siat
     location: Nanjing, China
     date_start: '2022-07-11'
