@@ -34,7 +34,7 @@ authors:
 
 tags:
 - Academic
-# - 开源
+- Academic
 
 categories:
 # - Demo
