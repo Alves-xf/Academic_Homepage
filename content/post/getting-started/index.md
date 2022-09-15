@@ -30,7 +30,7 @@ image:
 
 authors:
   - admin
-  - Advisor: Pengcheng Zhou
+  - Pengcheng Zhou
 
 tags:
   - Academic
