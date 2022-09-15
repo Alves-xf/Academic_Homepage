@@ -9,7 +9,7 @@ summary: Currently, various models based on deep learning have shown great poten
 projects: []
 
 # Date published
-date: '2022-06-03T00:00:00Z'
+date: '2022-06-03'
 
 # Date updated
 # lastmod: '2022-06-03T00:00:00Z'
