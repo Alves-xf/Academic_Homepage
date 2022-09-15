@@ -1,6 +1,6 @@
 ---
-title: Stripe artifacts removal using Residual Attention Wavelet Deep Neural Network (RAW-DNN).
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Thesis: Stripe artifacts removal using Residual Attention Wavelet Deep Neural Network (RAW-DNN).
+# subtitle: 
 
 # Summary for listings and search engines
 summary: Currently, various models based on deep learning have shown great potential for image restoration tasks. Although existing deep learning models can achieve excellent stripe removal performance, the preservation of detail information is still poor when the noise intensity is high. So we proposed a Residual Attention Wavelet Deep Neural Network (RAW-DNN) which can preserve high frequency details while removing stripe artifacts.
@@ -9,10 +9,10 @@ summary: Currently, various models based on deep learning have shown great poten
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-6-2"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+# lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,15 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- Advisor: Pengcheng Zhou
 
 tags:
 - Academic
-- 开源
+# - 开源
 
-categories:
-- Demo
-- 教程
+# categories:
+# - Demo
+# - 教程
 ---
 
 ## Overview
