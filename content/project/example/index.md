@@ -1,6 +1,6 @@
 ---
 title: Feature point detection of infrared image.(On going)
-summary: *Zongfang Liu* Coworker: Li Xue, John Speakman
+summary: Zongfang Liu Coworker: Li Xue, John Speakman
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
