@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Project & Thesis
 subtitle: ''
 
 content:
@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Project
       tag: Deep Learning
-    - name: Other
+    - name: Thesis
       tag: Demo
 
 design:
