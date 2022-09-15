@@ -1,5 +1,5 @@
 ---
-title: Cell counter
+title: Cell counter.
 summary: Zongfang Liu, Min Fan*
 tags:
   - Project
