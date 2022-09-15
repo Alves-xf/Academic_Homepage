@@ -13,7 +13,7 @@ main:
   - name: Project & Thesis
     url: '#project'
     weight: 30
-  - name: Publications(Comming soon)
+  - name: Publications(Coming soon)
     url: '#featured'
     weight: 40
 
