@@ -1,5 +1,4 @@
 ---
-# Feature point detection of infrared image (On going)
 title: Feature point detection of infrared image.(On going)
 summary: Zongfang Liu Coworker: Li Xue, John Speakman
 tags:
