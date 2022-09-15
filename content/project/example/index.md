@@ -21,4 +21,4 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Description comming soon
+Description coming soon
