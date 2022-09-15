@@ -36,7 +36,7 @@ tags:
 - Academic
 # - 开源
 
-# categories:
+categories:
 # - Demo
 # - 教程
 ---
