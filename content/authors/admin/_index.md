@@ -70,4 +70,4 @@ highlight_name: true
 ---
 Zongfang Liu is a Computer Vision Algorithm Engineer of MetaVision Project Group at the Hybrid Video Product Department, Huawei. Before that, Zongfang received his B.Eng degree with first-class honors from Shandong University (SDU) in 2022. He won 3 awards of national level competition and got 6 scholarships during that time. His research on Computer Vision started at SIAT Chinese Academy of Science under the supervision of [Fang Xu](https://scholar.google.com.hk/citations?hl=en&user=56qc93UAAAAJ&view_op=list_works&sortby=pubdate) and [Pengcheng Zhou](http://dami-lab.top/author/pengcheng-zhou/). Besides, he also worked with [John Roger Speakman](https://en.wikipedia.org/wiki/John_Speakman) on biological experimental data analysis using ML&DL algorithms. He is passionate about developing and using algorithms to solve real problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
