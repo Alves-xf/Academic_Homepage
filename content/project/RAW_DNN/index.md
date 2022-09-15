@@ -19,6 +19,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 Currently, various models based on deep learning have shown great potential for image restoration tasks. Although existing deep learning models can achieve excellent stripe removal performance, the preservation of detail information is still poor when the noise intensity is high. So we proposed a Residual Attention Wavelet Deep Neural Network (RAW-DNN) which can preserve high frequency details while removing stripe artifacts.
