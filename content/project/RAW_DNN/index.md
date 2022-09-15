@@ -2,7 +2,7 @@
 title: Stripe artifacts removal using Residual Attention Wavelet Deep Neural Network.
 summary: Zongfang Liu, Fang Xu*, Pengcheng Zhou*
 tags:
-  - Deep Learning
+  - Thesis
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
