@@ -11,7 +11,7 @@ main:
     url: '#experience'
     weight: 20
   - name: Project & Thesis
-    url: '#posts'
+    url: '#project'
     weight: 30
   - name: Publications(Comming soon)
     url: '#featured'
