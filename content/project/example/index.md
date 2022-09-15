@@ -1,5 +1,5 @@
 ---
-title: Feature point detection of infrared image.(On going)
+title: Feature point detection of infrared image.
 summary: Zongfang Liu, Li Xue*, John Speakman*
 tags:
   - Thesis
