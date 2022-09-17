@@ -19,4 +19,4 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Description coming soon
+This tool was developed for Prof.Min Fan using Python. To make the counter applicable to a variety of datas, I designed multiple modules to let the user semi-automatically process the input data. After processing, it will show the user whether edges of cells are perfectly detacted. If edges are perfectly detacted, the user can just click the counter button to get the result. The UI part is based on Tkinter and the algorithm part is based on Opencv.
