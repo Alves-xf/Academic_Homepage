@@ -21,4 +21,7 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This tool was developed for Prof.Min Fan using Python. To make the counter applicable to a variety of datas, I designed multiple modules to let the user semi-automatically process the input data. After processing, it will show the user whether edges of cells are perfectly detacted. If edges are perfectly detacted, the user can just click the counter button to get the result. The UI part is based on Tkinter and the algorithm part is based on Opencv.
+This project is part of Li Xue's Ph.D. research thesis. Currently, we just finished a demo as the actual experimental data has not been totally collected. I am in charge of the algorithm design and implementation part.
+The purpose is to automatically get the temperature of specific area of the volunteer's face. Using this tool, Li Xue will not need to choose the data, which is time-consuming. Instead of using deep learning algorithms, I use traditional machine learning algorithms, which do not require massive computing resources.
+
+The implementation details and source code will be released when Li Xue's paper gets accepted. 
